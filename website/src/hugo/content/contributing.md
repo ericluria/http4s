@@ -207,7 +207,7 @@ and `docs`
 
 The common area of http4s.org (i.e., directories not beginning with
 `/v#.#`) is generated from the `website` module and is published only
-from the `master` branch`.  This module is intended to contain general
+from the `master` branch.  This module is intended to contain general
 info about the project that applies to all versions.
 
 #### Editing the common site
