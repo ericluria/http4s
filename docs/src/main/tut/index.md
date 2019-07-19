@@ -40,8 +40,14 @@ to make this a domain you own, in reverse order (i.e., TLD first).
 : defaults to the latest stable release of http4s.  See
   the [versions] page for other suggestions.
 
+`circe_version`
+: defaults to the latest stable release of [circe](https://github.com/circe/circe), which is a JSON library for Scala.
+
 `logback_version`
 : the version of Logback for logging in your generated project.
+
+`specs2_version`
+: the version of [specs2](https://github.com/etorreborre/specs2), which is a testing framework for Scala.
 
 At the end of the process, you'll see:
 
